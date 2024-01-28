@@ -1,11 +1,14 @@
-# Description
+Moritz here, note that this document is not public as the repository is private :)
 
-Welcome to the GitHub account of the Division of Immunobiology at the Institute of Immunology (IFI) - Medical University of Vienna. This repository is dedicated to storing the source code for our scientific manuscripts. Each manuscript has its own repository, which contains all the relevant source code files. <br>
+Regarding this GitHub Organization: I suggest we make one new repository per publication where the source code etc. is stored. In addition, we can update the organization's profile accordingly. The organizion's profile text is managed by the README file in the folder "profile" of this private repository. I suggest we make each entry follow the same pattern, like this:
+
+
+Manuscript title
+Authors
+Manuscript status (e.g. published in xy, with DOI)
+
+
+Of course, with appropriate markdown formatting (just copy-paste). And that's it!
 
 
 
-## Manuscript Descriptions
-
-**T-cell activation phosoho and acetylproteomics (not final title)**<br>
-*Ci Zhu, ...*<br>
-Status: Manuscript in preparation<br>

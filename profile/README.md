@@ -4,6 +4,6 @@ Welcome to the GitHub account of the Division of Immunobiology at the Institute 
 
 
 # Manuscript Descriptions
-**T-cell activation phospho and acetylproteomics (not final title)**<br>
+**T-Cell Activation: Phospho and Acetylproteome Characterization over 24h (not final title)**<br>
 *Ci Zhu, ...*<br>
 Manuscript in preparation<br>

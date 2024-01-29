@@ -1,5 +1,5 @@
 # About
-Welcome to the GitHub account of the Division of Immunobiology at the Institute of Immunology (IFI) - Medical University of Vienna. This account is dedicated to publishing the source code of our scientific manuscripts. Each manuscript has its own repository, which contains all the relevant source code files. <br><br>
+Welcome to the GitHub account of the Division of Immunobiology at the Institute of Immunology (IFI) - Medical University of Vienna. This account is dedicated to publishing the source code of our scientific manuscripts. Each manuscript has its own repository containing all the relevant source code files. <br><br>
 
 
 

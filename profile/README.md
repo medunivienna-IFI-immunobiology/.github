@@ -4,6 +4,11 @@ Welcome to the GitHub account of the Division of Immunobiology at the Institute 
 
 
 # Manuscript Descriptions
+**Rica et al. (2024), HDAC1 controls the generation and maintenance of effector-like CD8+ T cells during chronic viral infection**<br>
+*Ramona Rica, Monika Waldherr, Marlene Schülein, Emi Miyakoda, Lisa Sandner, Valentina Stolz, Darina Waltenberger, Thomas Krausgruber, Christoph Bock, Nicole Boucheron, Wilfried Ellmeier, Shinya Sakaguchi*<br>
+BioRxiv, DOI: https://doi.org/10.1101/2024.02.28.580886<br>
+Scripts and metadata: https://github.com/medunivienna-IFI-immunobiology/2024_Rica_HDAC1-CD8Tcells-chronicLCMV<br>
+
 **Zhu et al. Manuscript - proteomics (not final title)**<br>
 *Ci Zhu, ...*<br>
 Source files: [2024_Zhu_et_al_proteomics](https://github.com/medunivienna-IFI-immunobiology/2024_Zhu_Tcell-activation-phospho-acetyl)<br>
